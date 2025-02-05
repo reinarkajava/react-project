@@ -5,13 +5,13 @@ const App = () => {
   const expenses = [
     {
       date: new Date(12, 2, 2025),
-      title: 'Uus raamat',
+      title: 'New book',
       price: 30.99
     },
     {
       date: new Date(12, 2, 2025),
-      title: 'Uus auto',
-      price: 31340.99
+      title: 'New jeans',
+      price: 99.99
     }
   ]
 
